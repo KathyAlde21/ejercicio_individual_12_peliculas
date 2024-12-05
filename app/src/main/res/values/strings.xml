@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio individual 12</string>
+
+    <string name="sTitulo">Pelicula</string>
+    <string name="sStart">Comenzar</string>
+    <string name="sMovie">Selecciona tu Pelicula Favorita</string>
+    <string name="sEmpty">Fragmento vacío</string>
+
+</resources>
